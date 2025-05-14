@@ -24,4 +24,4 @@ A data analysis project tracking COVID-19 trends worldwide, including cases, dea
 ### Option 1: Jupyter Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid19-global-tracker.git
+   git clone https://github.com/Wangarijane/-COVID-19-Global-Data-Tracker.git
