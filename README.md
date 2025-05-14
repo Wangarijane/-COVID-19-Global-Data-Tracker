@@ -1,7 +1,6 @@
 # 🌍 COVID-19 Global Data Tracker
 
-![COVID-19 Dashboard Example](https://via.placeholder.com/800x400?text=Sample+Visualization)  
-*(Replace with actual screenshot of your project)*
+![COVID-19 Dashboard Example](![Covid_Dashboard](https://github.com/user-attachments/assets/64cc55f5-b251-42a7-90e1-28f91d8d8a96)
 
 ## 📌 Description
 A data analysis project tracking COVID-19 trends worldwide, including cases, deaths, and vaccination progress. The project cleans real-world data, generates visualizations, and provides actionable insights into pandemic dynamics.
